@@ -3,4 +3,4 @@ title: Welcome
 layout: default
 ---
 
-Hello, Jekyll!
+Welcome to my site!
