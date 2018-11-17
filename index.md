@@ -4,4 +4,5 @@ layout: default
 ---
 
 [blog](/blog.html)
-Welcome to my site1..!
+
+Welcome to my site.
