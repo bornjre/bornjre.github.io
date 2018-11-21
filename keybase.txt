@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bornjre
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bornjre.github.io
+  * I am bornjre (https://keybase.io/bornjre) on keybase.
+  * I have a public key ASCmGx1hhN-qCzs-xniz3vP3hxEx4ySAwaxfkWxyjLd4Gwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c10338322084492b2263a425f7ca90bb9dff3dacfa15a11b894f18fcfd888d820a",
+      "host": "keybase.io",
+      "kid": "0120a61b1d6184dfaa0b3b3ec678b3def3f7871131e32480c1ac5f916c728cb7781b0a",
+      "uid": "57e7c124c47f105289d66036f7916219",
+      "username": "bornjre"
+    },
+    "merkle_root": {
+      "ctime": 1542809361,
+      "hash": "0fabfc9f49668fee774cf2fd9b86fc49859add7ea3cba0b367e7f8d6a908dacaa35a43f7d899f9eaabe397c6eecb3c8d156f114db1aa74ee43aa9eb98e9e98e6",
+      "hash_meta": "bc88fe298db16fa9d8a879d2509e86cb97566bb5c2c1124db9e703c0faa2a9aa",
+      "seqno": 3988151
+    },
+    "service": {
+      "entropy": "E7gimRG5+sA5qPIG//JtPrWP",
+      "hostname": "bornjre.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1542809394,
+  "expire_in": 504576000,
+  "prev": "932900a3a97a58e70a38a5d903da9bad4e2e456219d88cbe26fa4f5627e00268",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgphsdYYTfqgs7PsZ4s97z94cRMeMkgMGsX5Fscoy3eBsKp3BheWxvYWTESpcCEcQgkykAo6l6WOcKOKXZA9qbrU4uRWIZ2Iy+JvpPVifgAmjEIFYlc0XMu7D+Zd+JDpNa/ezXr8eN1AK3nYAKLakLaenlAgHCo3NpZ8RA8Pi8oCZGQsYaE3QZXPLuJ1gBNEX1YFXfRyF/UQ5aW6I1JGilkZfevO0q5uAOkOu2K2SLPDaaI+5rDTDMy5NSCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBkGdmNJ8lmC3Rq0Ks5cWo+P+AzUwaCSDaSJ18apRJN0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bornjre
+
+==================================================================
