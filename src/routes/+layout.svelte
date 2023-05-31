@@ -6,7 +6,7 @@
 <div class="app">
   <header>
     <div class="corner">
-      <a href="https://github.com/bornjre/propaganda"> Blog </a>
+      <a href="https://github.com/bornjre/bornjre.github.io"> Blog </a>
     </div>
 
     <nav>
