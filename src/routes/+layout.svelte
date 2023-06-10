@@ -15,7 +15,11 @@
           <a href="/">Home</a>
         </li>
 
-        <li aria-current={$page.url.pathname === "/propaganda" ? "page" : undefined}>
+        <li
+          aria-current={$page.url.pathname || "".includes("/propaganda")
+            ? "page"
+            : undefined}
+        >
           <a href="/propaganda">propaganda</a>
         </li>
 
